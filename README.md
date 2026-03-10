@@ -170,4 +170,4 @@ If you're building a full GTM stack with Claude Code skills, this pairs well wit
 
 ---
 
-*Built by [Stack & Scale](https://stackandscale.ai/) — the newsletter on AI workflows for GTM teams.*
+*Built by [Brandon]([https://stackandscale.ai](https://www.linkedin.com/in/brandonredlinger/)/) at [Stack & Scale](https://stackandscale.ai/) — the newsletter on AI workflows for GTM teams.*
