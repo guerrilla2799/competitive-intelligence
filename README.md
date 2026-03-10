@@ -1,3 +1,5 @@
+![competitive-intelligence banner](competitive-intelligence-banner.jpeg)
+
 # `/competitive-intelligence` — Claude Code Skill
 
 A Claude Code skill that builds a **comprehensive, research-backed competitive intelligence document** for any B2B SaaS client — written directly to a Markdown file and ready for use in sales, positioning, and GTM strategy work.
