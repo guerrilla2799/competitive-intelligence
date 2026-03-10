@@ -167,3 +167,7 @@ If you're building a full GTM stack with Claude Code skills, this pairs well wit
 ---
 
 *Built for Claude Code · Requires an active Claude session*
+
+---
+
+*Built by [Stack & Scale](https://stackandscale.ai/) — the newsletter on AI workflows for GTM teams.*
